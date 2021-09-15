@@ -1,6 +1,6 @@
 # **Olympics-Analysis---ETG-Internship 🚀**
 
-![Olympics Analysis](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202107/Olympic-Schedule-1.jpg?cKs11nxhUsoYw5dRAFAkADcH1FgQc2TH&size=1000:500)
+![Olympics Analysis](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202107/Olympic-Schedule-1.jpg?cKs11nxhUsoYw5dRAFAkADcH1FgQc2TH&size=1000:633)
 
 Welcome to my, Olympic Analysis Assignment created in Python3 Language.
 The project is created by [Meet Chokshi](https://github.com/MeetChokshi2002), under guidance of [Ashish Jangra](https://github.com/AshishJangra27), in the ongoing ML/AI Internship at ETG. 
